@@ -1,3 +1,4 @@
+#include <bits/stdc++.h>
 class FuturoDueno {
     private:
     string nombreD;
